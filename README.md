@@ -6,6 +6,7 @@
 </head>
 <body>
     <h1>Minecraft 2D</h1>
+    <img src="https://github.com/dysoouz/Minecraft_2D/blob/master/MInecraft2D/src/Resource/Abertura.png" alt="Jogo Aberto">
     <p>Um jogo desenvolvido em Java, onde os jogadores podem explorar um mundo bidimensional inspirado no universo do Minecraft. O jogo apresenta blocos, interatividade e uma experiência simplificada de construção e exploração.</p>
     <p>Ao iniciar o programa, digite "0" para criar o mundo.</p>
     <p>Movimentação:</p>
